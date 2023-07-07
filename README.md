@@ -2,7 +2,6 @@
 "Attendance by Face Recognition" is a Python project that uses OpenCV, Flask, datetime, numpy, scikit-learn's KNeighborsClassifier, pandas, and joblib. It implements face recognition for attendance tracking and provides a user-friendly interface with HTML integration.
 
 "Attendance by Face Recognition" is a Python project that leverages various technologies and libraries to implement a face recognition-based attendance system. The project utilizes the following components:
-
 # 1.OpenCV (cv2):
 Used for capturing video frames, detecting faces, and performing facial recognition tasks.
 
